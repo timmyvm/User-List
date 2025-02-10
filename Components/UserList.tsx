@@ -55,7 +55,7 @@ export default function UserList() {
             <div className="bg-white p-6 rounded-lg shadow-md max-w-md">
               <button
                 onClick={() => setSelectedUser(null)}
-                className="absoulute top-4 right-4 text-gray-500 hover:text-gray-800">
+                className="absolute  top-4 right-4 text-gray-500 hover:text-gray-800">
                 ✕
               </button>
               <Image
